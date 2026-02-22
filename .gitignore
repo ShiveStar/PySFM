@@ -3,4 +3,4 @@ Images/*
 *.DS_Store
 results/*
 data/log_cabin/*
-data/*
+data
